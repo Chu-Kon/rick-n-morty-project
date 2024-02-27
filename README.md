@@ -1,1 +1,1 @@
-# rick-n-morty-project
+https://chu-kon.github.io/rick-n-morty-project/
